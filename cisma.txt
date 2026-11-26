@@ -1,0 +1,25 @@
+CISMA-CANAL 1
+versao=0.35
+protocolo=2610
+lancador=1;lancador-1;CismaLancador.exe;872960;b38c03b716b85cb95568131a76ba049de3b3999940c4403fa287260427964e96
+base=0.35;base-0.35;8d79c6e95c25a27bd32fdd8b9670170b504657b4aeaee490b0685cafe2c744be;12459839908
+nota=0.35;- Guerreiro: a terceira suprema, na tecla R - a Ruptura Carmesim, mirada no chão
+nota=0.35;- Ruptura: sete talhos prendem o bando, cada golpe rasga o céu e a lâmina colossal sobe
+nota=0.35;- Ruptura: um corte só liga tudo e os talhos rebentam - o bando preso cai de uma vez
+nota=0.35;- A Ruptura ganhou o ícone próprio na barra de magias
+nota=0.35;- Esgotos -1: o Lodo mora nas tocas e, ao cair, se divide em dois Lodos menores
+nota=0.35;- Rei dos Ratos, raro no Trono de Lixo: chama Catadores e se divide em três, só um sangra
+nota=0.35;- Esgotos -1: o Cismático, cultista do Cisma, e o Rato-Bruto de corpo novo
+nota=0.35;- PvP: atordoar, derrubar e prender repetidos valem menos: inteiro, metade, um quarto, imune
+nota=0.35;- PvP: 3 s de controle em 6 s dão o Fôlego - 2 s livre, brilho branco e uma esquiva de volta
+nota=0.35;- Rato-Bruto, Brutamontes e Quebra-Ossos têm postura: quebrada, ficam 3 s tontos e expostos
+nota=0.35;- A Arqueira arranca, para e vira de verdade: o passo casa com o chão, sem deslizar
+nota=0.35;- Os bichos reagem de lado e pelas costas: giram para quem bateu e o tranco de costas é maior
+nota=0.35;- Duelista: cada corte do combo avança um passo, o último um bote, até encostar no alvo
+nota=0.35;- Conjuntos antigos vestem peça por peça nas 4 classes: o peito não troca mais o corpo todo
+nota=0.35;- Arqueira: trocar de armadura não deixa mais a cor da armadura anterior
+nota=0.35;- Ícones pintados novos: a arma de cada classe e todas as peças da armadura
+nota=0.35;- Peças de armadura com níveis de detalhe: menos peso com muita gente na tela
+nota=0.35;- Moradores e ratos com níveis de detalhe: menos peso na vila quando estão longe
+nota=0.35;- No apagão das supremas, o brilho e o nome do saque no chão escurecem junto com o céu
+FIM
