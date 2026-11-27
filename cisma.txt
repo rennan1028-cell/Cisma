@@ -1,8 +1,9 @@
 CISMA-CANAL 1
-versao=0.35
-protocolo=2610
+versao=0.36
+protocolo=2611
 lancador=1;lancador-1;CismaLancador.exe;872960;b38c03b716b85cb95568131a76ba049de3b3999940c4403fa287260427964e96
 base=0.35;base-0.35;8d79c6e95c25a27bd32fdd8b9670170b504657b4aeaee490b0685cafe2c744be;12459839908
+remendo=0.35;0.36;r-0.35_0.36;08f8956dfe666fed6a5bb178717798a9c8d2fa24c3b3e79b21a1a4f0d309d9d6;298609018;1992294400
 nota=0.35;- Guerreiro: a terceira suprema, na tecla R - a Ruptura Carmesim, mirada no chão
 nota=0.35;- Ruptura: sete talhos prendem o bando, cada golpe rasga o céu e a lâmina colossal sobe
 nota=0.35;- Ruptura: um corte só liga tudo e os talhos rebentam - o bando preso cai de uma vez
@@ -22,4 +23,17 @@ nota=0.35;- Ícones pintados novos: a arma de cada classe e todas as peças da a
 nota=0.35;- Peças de armadura com níveis de detalhe: menos peso com muita gente na tela
 nota=0.35;- Moradores e ratos com níveis de detalhe: menos peso na vila quando estão longe
 nota=0.35;- No apagão das supremas, o brilho e o nome do saque no chão escurecem junto com o céu
+nota=0.36;- Guerreiro vestido: as 6 armaduras e espadas da escada aparecem no corpo dele
+nota=0.36;- Guerreiro: os 4 conjuntos antigos aparecem peça por peça, como nas outras classes
+nota=0.36;- Guerreiro: cada espada da escada assenta na mão dele, com a guarda no lugar da guarda dele
+nota=0.36;- Guerreiro: o escudo continua no braço com a espada da escada; sem elmo, o cabelo aparece
+nota=0.36;- Guerreiro: a Investida tem 2 cargas e nada pega no voo do bote — ali vira esquiva perfeita
+nota=0.36;- Guerreiro: mira de verdade nos golpes — ajuda leve só em bicho na frente, nunca pelas costas
+nota=0.36;- Guerreiro: parado, cada corte do combo avança um passo até encostar no alvo
+nota=0.36;- Guerreiro: de guarda erguida ele vira para a câmera em 0,08 s, sem estalo
+nota=0.36;- Online: o toque do corte do Guerreiro aparece na hora na tela de quem bate
+nota=0.36;- Itens lendários e míticos: a luz da qualidade virou um brilho suave em volta dos pés
+nota=0.36;- Guerreiro: as três supremas seguem a espada que ele veste — lâmina, faíscas e brasas
+nota=0.36;- Montaria mítica Lobo Carmesim na tecla V: armadura, fogo, runas e 2,1 vezes a velocidade
+nota=0.36;- O Cisma agora se instala e se atualiza sozinho pela internet, com um clique
 FIM
