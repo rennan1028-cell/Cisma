@@ -34,6 +34,5 @@ nota=0.36;- Guerreiro: de guarda erguida ele vira para a câmera em 0,08 s, sem 
 nota=0.36;- Online: o toque do corte do Guerreiro aparece na hora na tela de quem bate
 nota=0.36;- Itens lendários e míticos: a luz da qualidade virou um brilho suave em volta dos pés
 nota=0.36;- Guerreiro: as três supremas seguem a espada que ele veste — lâmina, faíscas e brasas
-nota=0.36;- Montaria mítica Lobo Carmesim na tecla V: armadura, fogo, runas e 2,1 vezes a velocidade
 nota=0.36;- O Cisma agora se instala e se atualiza sozinho pela internet, com um clique
 FIM
