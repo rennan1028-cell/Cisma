@@ -1,9 +1,10 @@
 CISMA-CANAL 1
-versao=0.36
-protocolo=2611
+versao=0.37
+protocolo=2612
 lancador=1;lancador-1;CismaLancador.exe;872960;b38c03b716b85cb95568131a76ba049de3b3999940c4403fa287260427964e96
 base=0.35;base-0.35;8d79c6e95c25a27bd32fdd8b9670170b504657b4aeaee490b0685cafe2c744be;12459839908
 remendo=0.35;0.36;r-0.35_0.36;08f8956dfe666fed6a5bb178717798a9c8d2fa24c3b3e79b21a1a4f0d309d9d6;298609018;1992294400
+remendo=0.36;0.37;r-0.36_0.37;b608e68eb26a37afa8a04b45fccf9865329b779b7cfe9c5e4f86e58efa3e2f09;162758203;1992294400
 nota=0.35;- Guerreiro: a terceira suprema, na tecla R - a Ruptura Carmesim, mirada no chão
 nota=0.35;- Ruptura: sete talhos prendem o bando, cada golpe rasga o céu e a lâmina colossal sobe
 nota=0.35;- Ruptura: um corte só liga tudo e os talhos rebentam - o bando preso cai de uma vez
@@ -35,4 +36,10 @@ nota=0.36;- Online: o toque do corte do Guerreiro aparece na hora na tela de que
 nota=0.36;- Itens lendários e míticos: a luz da qualidade virou um brilho suave em volta dos pés
 nota=0.36;- Guerreiro: as três supremas seguem a espada que ele veste — lâmina, faíscas e brasas
 nota=0.36;- O Cisma agora se instala e se atualiza sozinho pela internet, com um clique
+nota=0.37;- Guerreiro: as magias de mirar no chão mostram o alcance e a área antes de soltar (4, R e T)
+nota=0.37;- Mira no chão: toque a tecla e o aro aparece; clique solta, botão direito ou Esc cancela
+nota=0.37;- Mira no chão: a mesma tecla de novo também solta, e segurar a tecla e largar lança na hora
+nota=0.37;- O Salto Esmagador (tecla 4) agora cai onde você escolher, até 25 metros
+nota=0.37;- Tecla U: a Ruptura Carmesim rápida, com os mesmos 7 cortes e o final inteiro em 4 segundos
+nota=0.37;- A U e a R são a mesma magia (mesma recarga, mesma Fúria): é para comparar as duas no jogo
 FIM
