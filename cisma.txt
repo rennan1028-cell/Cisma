@@ -1,10 +1,11 @@
 CISMA-CANAL 1
-versao=0.37
-protocolo=2612
+versao=0.38
+protocolo=2613
 lancador=1;lancador-1;CismaLancador.exe;872960;b38c03b716b85cb95568131a76ba049de3b3999940c4403fa287260427964e96
 base=0.35;base-0.35;8d79c6e95c25a27bd32fdd8b9670170b504657b4aeaee490b0685cafe2c744be;12459839908
 remendo=0.35;0.36;r-0.35_0.36;08f8956dfe666fed6a5bb178717798a9c8d2fa24c3b3e79b21a1a4f0d309d9d6;298609018;1992294400
 remendo=0.36;0.37;r-0.36_0.37;b608e68eb26a37afa8a04b45fccf9865329b779b7cfe9c5e4f86e58efa3e2f09;162758203;1992294400
+remendo=0.37;0.38;r-0.37_0.38;2f8d7f574f8fd2e41c18ea049250d929f1c8b4f006400dc70752aa4eb0d03495;131217699;1992294400
 nota=0.35;- Guerreiro: a terceira suprema, na tecla R - a Ruptura Carmesim, mirada no chão
 nota=0.35;- Ruptura: sete talhos prendem o bando, cada golpe rasga o céu e a lâmina colossal sobe
 nota=0.35;- Ruptura: um corte só liga tudo e os talhos rebentam - o bando preso cai de uma vez
@@ -42,4 +43,5 @@ nota=0.37;- Mira no chão: a mesma tecla de novo também solta, e segurar a tecl
 nota=0.37;- O Salto Esmagador (tecla 4) agora cai onde você escolher, até 25 metros
 nota=0.37;- Tecla U: a Ruptura Carmesim rápida, com os mesmos 7 cortes e o final inteiro em 4 segundos
 nota=0.37;- A U e a R são a mesma magia (mesma recarga, mesma Fúria): é para comparar as duas no jogo
+nota=0.38;- Montaria nova: Lobo Carmesim, com fogo carmesim, anéis de runas e brasas nas patas (item 64; no modo GM, tecla V)
 FIM
